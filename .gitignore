@@ -1,0 +1,6 @@
+*.asv
+
+# Generated datasets and artifacts.
+data/
+logs/
+outputs/
